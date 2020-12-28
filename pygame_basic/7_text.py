@@ -131,7 +131,7 @@ while running:
     pygame.display.update() # 게임화면을 다시 그려줌. 계속 호출되어야함
 
 # 잠시 대기
-pygame.time.delay(1000) # 2초 정도 대기(ms)
+pygame.time.delay(1000)
 
 # pygame 종료
 pygame.quit()
